@@ -4,4 +4,4 @@ if (login == "admin" && senha == "senha123"){
     console.log("Login bem sucedido!")
 }
 else
-{ console.log ("Voce não ten permissaoss")} 
+{ console.log ("Voce não ten permissao de acesso!")} 
