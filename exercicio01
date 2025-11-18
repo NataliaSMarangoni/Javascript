@@ -1,0 +1,7 @@
+let login= prompt("Digite seu usuário:")
+let senha= prompot("Digite senha:")
+if (login == "admin" && senha == "senha123"){
+    console.log("Login bem sucedido!")
+}
+else
+{ console.log ("Voce não ten permissaoss")} 
